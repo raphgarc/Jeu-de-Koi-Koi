@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Manager
+  - PanelContinuer
+  - PanelBoutonsContinuer
+  - PetitPane
+  - Musique
+  - PanelDebut
+  - PanelMenu
+  - PanelJouer
+  - PanelPause
+  - PetitPanelPause
+  - PanelFin
+  - PanelGraphe
+  - PanelTutoGlobal
+  - PanelTuto1
+  - PanelTuto2
+  - PanelTuto3
+  - PanelTuto4
+  - PanelTuto5
+  - PanelTuto6
+  - PanelTuto7
+  - PanelTuto8
+  - PanelTuto9
+  - PanelTuto10
+  - PanelTuto11
+  - PanelTuto12
+  - PanelNiveau
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Defosse
+  - Pioche
+  - JeuEnnemi
+  - JeuMoi
+  - PlisLumiereMoi
+  - PlisRubanMoi
+  - PlisAnimalMoi
+  - PlisPlanteMoi
+  - PlisLumiereIA
+  - PlisRubanIA
+  - PlisAnimalIA
+  - PlisPlanteIA
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Defosse
+    uniqueID: 3119983621
+    locked: 0
+  - name: Pioche
+    uniqueID: 370574811
+    locked: 0
+  - name: JeuEnnemi
+    uniqueID: 1208221627
+    locked: 0
+  - name: JeuMoi
+    uniqueID: 2650555187
+    locked: 0
+  - name: PlisLumiereMoi
+    uniqueID: 3235731619
+    locked: 0
+  - name: PlisRubanMoi
+    uniqueID: 1478719533
+    locked: 0
+  - name: PlisAnimalMoi
+    uniqueID: 2994192607
+    locked: 0
+  - name: PlisPlanteMoi
+    uniqueID: 1031314765
+    locked: 0
+  - name: PlisLumiereIA
+    uniqueID: 303222165
+    locked: 0
+  - name: PlisRubanIA
+    uniqueID: 3257751351
+    locked: 0
+  - name: PlisAnimalIA
+    uniqueID: 4145787949
+    locked: 0
+  - name: PlisPlanteIA
+    uniqueID: 4007957247
+    locked: 0

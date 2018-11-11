@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{4A1ECB5C-377C-3502-CA17-96FFEA751846}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/IA.cs" Line="157" Column="1" />
+      <File FileName="Assets/Scripts/Carte_IA.cs" Line="64" Column="81" />
+      <File FileName="Assets/Scripts/Joueur.cs" Line="439" Column="30" />
+      <File FileName="Assets/Scripts/Carte.cs" Line="212" Column="6" />
+      <File FileName="Assets/Scripts/fonctions_combinaisons.cs" Line="25" Column="73" />
+      <File FileName="Assets/Scripts/Combinaisons.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuManager.cs" Line="135" Column="21" />
+      <File FileName="Assets/Scripts/GameCard.cs" Line="68" Column="17" />
+      <File FileName="Assets/Scripts/Partie.cs" Line="43" Column="9" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="871" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Code_220Unity PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
