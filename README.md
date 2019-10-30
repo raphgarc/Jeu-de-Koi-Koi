@@ -14,7 +14,7 @@ Contexte de la création du jeu:
 J'ai effectué ce projet de mars à mai 2018 (1 mois et demi en tout) dans le cadre de mes études en 3e année. Le sujet était libre avec comme seule contrainte l'utilisation de l'IA, nous avons donc choisi de refaire le jeu de Koi-Koi (jeu de cartes japonais) en implémentant 4 niveaux d'IA (le niveau 4 étant le plus haut). C'était mon premier projet sur Unity (en autodidacte) et j'ai codé l'intégralité de la partie graphique. Mon partenaire de projet a codé l'algorithme d'IA. 
 
 
-Propriété de Raphaëlle GARCIA.
+Propriété de Raphaëlle GARCIA et Léo LELLOUCHE.
 
 
 
